@@ -1,8 +1,0 @@
-python-telegram-bot
-python-dotenv
-agno
-openai
-google-generativeai
-firecrawl-py
-lxml_html_clean
-ddgs
