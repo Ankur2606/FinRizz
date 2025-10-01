@@ -107,6 +107,8 @@ discovery_agent = Agent(
         - Use Twitter sentiment analysis to gauge authentic community bullishness while filtering out bot activity.
         - Provide comprehensive analysis based on the data you can successfully gather from web sources.
     """),
+    debug_mode=True,
+    debug_level=2,
     expected_output="A comprehensive report on newly discovered tokens with their investment potential and social sentiment.",
 )
 
@@ -121,6 +123,8 @@ whale_agent = Agent(
         - Analyze whale accumulation and distribution patterns.
         - Assess concentration risk for potential market manipulation.
     """),
+    debug_mode=True,
+    debug_level=2,
     expected_output="An intelligence report on whale activity, concentration risk, and potential market movements.",
 )
 
@@ -135,6 +139,8 @@ market_agent = Agent(
         - Provide technical indicators like RSI and MACD.
         - Assess market sentiment from price action.
     """),
+    debug_mode=True,
+    debug_level=2,
     expected_output="A real-time market intelligence dashboard with key metrics and technical analysis.",
 )
 
@@ -150,6 +156,8 @@ financial_agent = Agent(
         - Provide portfolio allocation guidance and scenario analysis.
         - Formulate a clear investment thesis with risk management strategies.
     """),
+    debug_mode=True,
+    debug_level=2,
     expected_output="A professional investment report with a clear BUY/SELL/HOLD recommendation, detailed financial analysis, and strategic market insights.",
 )
 

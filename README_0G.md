@@ -40,7 +40,7 @@ Your `.env` is already configured for 0G Newton testnet!
 ```bash
 # Already set in your .env:
 RPC_URL=https://evmrpc-testnet.0g.ai
-CHAIN_ID=16600  # 0G Newton Testnet
+CHAIN_ID=16602  # 0G Newton Testnet
 ```
 
 ### **Step 3: Get 0G Testnet Tokens**
@@ -112,21 +112,21 @@ oracle.update_prices_on_0g_chain(['BTC/USD'])
 
 ### **Newton Testnet (Current)**
 - **RPC**: `https://evmrpc-testnet.0g.ai`
-- **Chain ID**: `16600`
-- **Explorer**: https://chainscan-newton.0g.ai
+- **Chain ID**: `16602`
+- **Explorer**: https://chainscan-galileo.0g.ai
 - **Faucet**: 0G Discord #faucet
 
 ### **Mainnet (Future)**
 ```bash
 # Update .env when mainnet launches:
 RPC_URL=https://evmrpc.0g.ai
-CHAIN_ID=16600  # Will be updated
+CHAIN_ID=16602  # Will be updated
 ```
 
 ## 🔍 **Monitoring & Analytics**
 
 ### **0G Block Explorer**
-- **Testnet**: https://chainscan-newton.0g.ai
+- **Testnet**: https://chainscan-galileo.0g.ai
 - Monitor your transactions and contract interactions
 
 ### **Price Data Verification**
@@ -201,7 +201,7 @@ When 0G mainnet launches:
 - **0G Network**: https://0g.ai
 - **0G Discord**: https://discord.gg/0G  
 - **0G Docs**: https://docs.0g.ai
-- **0G Explorer**: https://chainscan-newton.0g.ai
+- **0G Explorer**: https://chainscan-galileo.0g.ai
 - **Pyth Network**: https://pyth.network
 - **This Integration**: Your local files!
 

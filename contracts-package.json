@@ -1,0 +1,33 @@
+{
+  "name": "finrizz-contracts",
+  "version": "1.0.0",
+  "description": "FinRizz Smart Contracts for 0G Galileo Testnet",
+  "main": "index.js",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "deploy": "hardhat run scripts/deploy.js --network og-galileo",
+    "deploy:local": "hardhat run scripts/deploy.js --network hardhat",
+    "node": "hardhat node",
+    "clean": "hardhat clean",
+    "verify": "hardhat verify --network og-galileo"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.2",
+    "hardhat": "^2.17.1",
+    "dotenv": "^16.3.1"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.9.3"
+  },
+  "keywords": [
+    "finrizz",
+    "smart-contracts",
+    "0g-network",
+    "ethereum",
+    "credits",
+    "payment"
+  ],
+  "author": "FinRizz Team",
+  "license": "MIT"
+}

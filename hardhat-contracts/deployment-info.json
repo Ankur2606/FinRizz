@@ -1,0 +1,11 @@
+{
+  "network": "0G Galileo Testnet",
+  "chainId": 16602,
+  "contractAddress": "0x5FaADBd9203Bc599B71bb789BD59ca9127a87caC",
+  "blockNumber": null,
+  "transactionHash": "0xde4a17e5cae7788c64180cf5e620698f62ba9b6d9e8ec0989ce8fb14838dbab2",
+  "deployer": "0xa7E9a5Ece441DEb732666F0a88C9ab0675F5C3f4",
+  "timestamp": "2025-09-28T08:05:19.496Z",
+  "explorerUrl": "https://chainscan-galileo.0g.ai/address/0x5FaADBd9203Bc599B71bb789BD59ca9127a87caC",
+  "gasUsed": "1364875"
+}

@@ -5,7 +5,7 @@ openai
 google-generativeai
 firecrawl-py
 lxml_html_clean
-ddgs
+requests
 
 # Core requirements
 # requests>=2.28.0

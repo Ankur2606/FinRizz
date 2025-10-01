@@ -13,7 +13,7 @@ eth-account>=0.8.0
 
 # Data serialization for 0G Storage/DA
 pydantic>=2.0.0
-
+`
 # Optional: Enhanced HTTP for 0G API interactions
 httpx>=0.24.0
 

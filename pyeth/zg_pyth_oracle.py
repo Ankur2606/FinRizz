@@ -40,11 +40,11 @@ ZG_CONFIG = {
         "chain_id": 16602,  # Updated actual chain ID
         "da_node": "https://da-rpc-testnet.0g.ai",  # Updated endpoint
         "storage_node": "https://rpc-storage-testnet.0g.ai",  # Updated endpoint
-        "explorer": "https://chainscan-newton.0g.ai"
+        "explorer": "https://chainscan-galileo.0g.ai"
     },
     "mainnet": {
         "rpc_url": "https://evmrpc.0g.ai", 
-        "chain_id": 16600,  # Will be updated when mainnet launches
+        "chain_id": 16602,  # Will be updated when mainnet launches
         "da_node": "https://da.0g.ai",
         "storage_node": "https://storage.0g.ai",
         "explorer": "https://chainscan.0g.ai"
